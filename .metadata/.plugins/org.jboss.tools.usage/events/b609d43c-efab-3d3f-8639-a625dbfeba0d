@@ -1,0 +1,11 @@
+#Tue Nov 29 15:32:44 EST 2016
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1480451564278
+c=0
+cmp=usage
+a=finishWizard
+cl=org.eclipse.team.svn.ui.wizard.ShareProjectWizard
+v=2.1.1
+s=1

@@ -1,0 +1,8 @@
+127.0.0.1 - - [29/Nov/2016:12:05:41 -0500] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:07:23 -0500] "GET /datafeed-engine/thisthat/hello HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:07:23 -0500] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:47:37 -0500] "GET /datafeed-engine/thisthat/hello HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:47:42 -0500] "GET /datafeed-engine/thisthat HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:47:48 -0500] "GET /datafeed-engine/thisthat/hello HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:51:28 -0500] "GET /datafeed-engine/login.html HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [29/Nov/2016:12:54:31 -0500] "GET /datafeed-engine/thisthat/hello HTTP/1.1" 200 28
